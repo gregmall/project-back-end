@@ -23,6 +23,7 @@ async function run() {
                     domestic BOOLEAN NOT NULL,
                     category VARCHAR(256),
                     price INTEGER NOT NULL,
+                    owner_id INTEGER NOT NULL REFERENCES users(id)
                     
             );
         `);
