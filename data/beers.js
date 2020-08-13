@@ -31,8 +31,43 @@ module.exports = [
     price: 3,
     
 
+  },
+  {
+    
+    name: 'Tuborg',
+    domestic: false,
+    category: 'pilsner',
+    price: 4,
+    
+
+  },
+
+  {
+    
+    name: 'Lost Coast',
+    domestic: true,
+    category: 'micro brew',
+    price: 5,
+    
+
+  },
+  {
+    
+    name: 'Rogue',
+    domestic: true,
+    category: 'micro brew',
+    price: 4,
+    
+
+  },
+  {
+    
+    name: 'Tsingtao',
+    domestic: false,
+    category: 'lager',
+    price: 4,
+    
+
   }
-
-
 
 ];
