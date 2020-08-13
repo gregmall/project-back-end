@@ -16,7 +16,7 @@ module.exports = [
     
   },
   {
-    image: 'https://sierranevada.com/wp-content/uploads/2019/03/pale-ale.png',
+    image: 'https://cdn.shopify.com/s/files/1/0057/8089/7892/products/SierraNevadaPaleAle_2000x.jpg?v=1590167763',
     name: 'Sierra Nevada',
     domestic: true,
     category: 'micro brew',
