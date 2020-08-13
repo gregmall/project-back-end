@@ -30,7 +30,7 @@ async function run() {
                     INSERT INTO beers (name, domestic, category, price, owner_id)
                     VALUES ($1, $2, $3, $4, $5);
                 `,
-        [ beer.name, beer.domestic, beer.category, beer.price, user.id]);
+        [beer.name, beer.domestic, beer.category, beer.price, user.id]);
       })
     );
     
