@@ -1,6 +1,6 @@
 module.exports = [
   {
-    image: 'http://https://pabstblueribbon.com/files/pbr-org_1-768x922.png',
+    image: 'https://pabstblueribbon.com/files/pbr-org_1-768x922.png',
     name: 'Pabst',
     domestic: true,
     category: 'lager',
@@ -16,7 +16,7 @@ module.exports = [
     
   },
   {
-    image: 'http://https://sierranevada.com/wp-content/uploads/2019/03/pale-ale.png',
+    image: 'https://sierranevada.com/wp-content/uploads/2019/03/pale-ale.png',
     name: 'Sierra Nevada',
     domestic: true,
     category: 'micro brew',
@@ -24,7 +24,7 @@ module.exports = [
     
   },
   {
-    image: 'http://https://specsonline.com/wp-content/uploads/2019/07/008066095715.jpg',
+    image: 'https://specsonline.com/wp-content/uploads/2019/07/008066095715.jpg',
     name: 'Modelo',
     domestic: false,
     category: 'lager',
@@ -33,7 +33,7 @@ module.exports = [
 
   },
   {
-    image: 'http://https://nordicexpatshop.com/pub/media/catalog/product/cache/152d1e2b7d2c178bcab283d9a96192dd/a/b/ab6236c9348b93ec3f75a3ed4f9dc34ecd0a17a1028bf5105927c04ec2be088b.jpeg',
+    image: 'https://nordicexpatshop.com/pub/media/catalog/product/cache/152d1e2b7d2c178bcab283d9a96192dd/a/b/ab6236c9348b93ec3f75a3ed4f9dc34ecd0a17a1028bf5105927c04ec2be088b.jpeg',
     name: 'Tuborg',
     domestic: false,
     category: 'pilsner',
@@ -61,7 +61,7 @@ module.exports = [
 
   },
   {
-    
+    image: 'https://sc01.alicdn.com/kf/HTB1YX4bayrxK1RkHFCcq6AQCVXac.jpg',
     name: 'Tsingtao',
     domestic: false,
     category: 'lager',
