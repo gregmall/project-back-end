@@ -19,6 +19,7 @@ async function run() {
                 );           
                 CREATE TABLE beers (
                     id SERIAL PRIMARY KEY NOT NULL,
+                    image VARCHAR(512) NOT NULL,
                     name VARCHAR(256) NOT NULL,
                     domestic BOOLEAN NOT NULL,
                     category VARCHAR(256),
