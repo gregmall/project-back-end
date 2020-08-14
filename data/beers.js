@@ -52,7 +52,7 @@ module.exports = [
 
   },
   {
-    image: 'https://www.rogue.com/thumbs/thumbs/cached-images/products/batsquatch/batsquatchactual_hero_image_can_trimmed_top-175x298.jpg',
+    image: 'https://beverages2u.com/wp-content/uploads/2019/05/rogue-otta-line.jpg',
     name: 'Rogue',
     domestic: true,
     category: 'micro brew',
