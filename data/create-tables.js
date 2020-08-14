@@ -26,10 +26,9 @@ async function run() {
                     image VARCHAR(512) NOT NULL,
                     name VARCHAR(256) NOT NULL,
                     domestic BOOLEAN NOT NULL,
-                    category VARCHAR(256),
                     price INTEGER NOT NULL,
-                    owner_id INTEGER NOT NULL REFERENCES users(id)
-                    
+                    owner_id INTEGER NOT NULL REFERENCES users(id),
+                    category_id INTEGER NOT NULL REFERENCES category(id)
             );
         `);
 
