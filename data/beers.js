@@ -4,28 +4,28 @@ module.exports = [
     name: 'Pabst',
     domestic: true,
     price: 2,
-    category: 'lager'
+    category_id: 1
   },
   {
     image: 'https://www.lcbo.com/content/dam/lcbo/products/073809.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg',
     name: 'Carlsberg',
     domestic: false,
     price: 5,
-    category: 'pilsner'
+    category_id: 2
   },
   {
     image: 'https://cdn.shopify.com/s/files/1/0057/8089/7892/products/SierraNevadaPaleAle_2000x.jpg?v=1590167763heck',
     name: 'Sierra Nevada',
     domestic: true,
     price: 4,
-    category: 'micro brew'
+    category_id: 3
   },
   {
     image: 'https://specsonline.com/wp-content/uploads/2019/07/008066095715.jpg',
     name: 'Modelo',
     domestic: false,
     price: 3,
-    category: 'lager'
+    category_id: 4
 
   },
   {
@@ -33,7 +33,7 @@ module.exports = [
     name: 'Tuborg',
     domestic: false,
     price: 4,
-    category: 'pilsner'
+    category_id: 5
 
   },
 
@@ -42,7 +42,7 @@ module.exports = [
     name: 'Lost Coast',
     domestic: true,
     price: 5,
-    category: 'micro brew'
+    category_id: 6
 
   },
   {
@@ -50,7 +50,7 @@ module.exports = [
     name: 'Rogue',
     domestic: true,
     price: 4,
-    category: 'micro brew'
+    category_id: 7
 
   },
   { 
@@ -58,7 +58,7 @@ module.exports = [
     name: 'Tsingtao',
     domestic: false,
     price: 4,
-    category: 'lager'
+    category_id: 8
 
   }
 
